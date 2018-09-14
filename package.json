@@ -1,0 +1,50 @@
+{
+  "_from": "react-native-google-location@^0.2.0",
+  "_id": "react-native-google-location@0.2.0",
+  "_inBundle": false,
+  "_integrity": "sha1-4++rLbgGfKpF3ObVHsg75RitmAI=",
+  "_location": "/react-native-google-location",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "react-native-google-location@^0.2.0",
+    "name": "react-native-google-location",
+    "escapedName": "react-native-google-location",
+    "rawSpec": "^0.2.0",
+    "saveSpec": null,
+    "fetchSpec": "^0.2.0"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-google-location/-/react-native-google-location-0.2.0.tgz",
+  "_shasum": "e3efab2db8067caa45dce6d51ec83be518ad9802",
+  "_spec": "react-native-google-location@^0.2.0",
+  "_where": "/Users/saulo/Development/speak/s-peak-front",
+  "author": {
+    "name": "Tim Hagn"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Google Play Services Location Module for React Native Android.",
+  "gitHead": "bd2391377c96fc0dde140b4793df8151cb9a9419",
+  "homepage": "https://bitbucket.org/timhagn/react-native-google-locations#readme",
+  "keywords": [
+    "react-native",
+    "react-component",
+    "android",
+    "google-play-services",
+    "google",
+    "location"
+  ],
+  "license": "ISC",
+  "main": "index.android.js",
+  "name": "react-native-google-location",
+  "repository": {
+    "type": "git",
+    "url": "git+https://timhagn@bitbucket.org/timhagn/react-native-google-locations.git"
+  },
+  "version": "0.2.0"
+}
